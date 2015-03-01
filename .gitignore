@@ -1,0 +1,50 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+#common filters
+.DS_Store
+thumbs.db
+.svn
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+
+#.net stuff
+bin
+obj
+*.sln.cache
+*.suo
+*.user
+*.pdb
+*.orig
+*.psess
+*.vsdoc
+*.vsp
+*.orig
+*.mdb
+*.pidb
+*.ipch
+*.application
+*.userprefs
+*.sdf
+*.opensdf
+*.sln.ide
+*/Release/*.obj
+*.obj
+*.tlog
+*.log
+*.lib
+*.idb
+Dist/FreeImage.h
+Release/*.exp
