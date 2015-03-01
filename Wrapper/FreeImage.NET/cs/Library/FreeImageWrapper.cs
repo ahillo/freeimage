@@ -2035,7 +2035,7 @@ namespace FreeImageAPI
 				if (!mdib.IsNull)
 					CloseMultiBitmap(mdib, FREE_IMAGE_SAVE_FLAGS.DEFAULT);
 
-				if (handle != null)
+				//if (handle != null)
 					handle.Dispose();
 
 				throw;
